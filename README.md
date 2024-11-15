@@ -13,6 +13,7 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 3. [How It Works](#how-it-works)
 4. [App demo](#app-demo)
 5. [Contributors](#contributors)
+6. [Note](#note)
 
 ---
 
@@ -80,5 +81,10 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 
 ### 6. Data Storage
 - The server saves all student data (Name, Registration Number, Warning Score, Credibility Score) in a **CSV** file for teacher access.
+
+---
+
+## App demo
+![](demo.gif)
 
 ---
