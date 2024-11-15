@@ -88,11 +88,10 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 ## Installation
 
 ### Execute the following commands in your command prompt or terminal
-bash'''
-git clone https://github.com/prodev717/Examify.git
-cd Examify
-pip install -r requirements.txt
-python main.py'''
+#### git clone https://github.com/prodev717/Examify.git
+#### cd Examify
+#### pip install -r requirements.txt
+#### python main.py
 
 ---
 
