@@ -88,3 +88,29 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 ![](demo.gif)
 
 ---
+
+## Contributors
+
+### Ganesh M
+- **GitHub**: [prodev717](https://github.com/prodev717)  
+- **Role**: Backend Developer  
+- **Contributions**:
+  - Developed the FastAPI server for data handling and storage.
+  - Implemented real-time face detection using OpenCV and Mediapipe.
+  - Managed threading and background monitoring processes.
+  - Configured Selenium for secure browser automation.
+
+## VK Rohith
+- **GitHub**: [VK Rohith](https://github.com/RohiVK)  
+- **Role**: Frontend Developer  
+- **Contributions**:
+  - Designed the user interface using Tkinter.
+  - Built the exam initiation and rules agreement workflow.
+
+---
+
+## Note
+
+### Before using the app, ensure the ChromeDriver path is set correctly in the code and the FastAPI server is running. To start server run start_server.bat
+
+---
