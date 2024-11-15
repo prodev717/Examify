@@ -11,9 +11,10 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
 3. [How It Works](#how-it-works)
-4. [App demo](#app-demo)
-5. [Contributors](#contributors)
-6. [Note](#note)
+4. [Installation](#installation)
+5. [App demo](#app-demo)
+6. [Contributors](#contributors)
+7. [Note](#note)
 
 ---
 
@@ -84,7 +85,19 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 
 ---
 
+## Installation
+
+### Execute the following commands in your command prompt or terminal
+bash'''
+git clone https://github.com/prodev717/Examify.git
+cd Examify
+pip install -r requirements.txt
+python main.py'''
+
+---
+
 ## App demo
+
 ![](demo.gif)
 
 ---
