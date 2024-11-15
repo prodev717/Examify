@@ -111,5 +111,3 @@ submit_button = tk.Button(form_frame, text="Take Test", command=submit_form, fon
 submit_button.pack(pady=20)
 app.eval('tk::PlaceWindow . center')
 app.mainloop()
-
-# https://docs.google.com/forms/d/e/1FAIpQLSfuZc4ZKX3ex20-LdhgsOyVwHFRdnWOdZgH2iS72_erJ9sf3A/viewform?usp=sf_link
