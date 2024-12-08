@@ -15,6 +15,7 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 5. [App demo](#app-demo)
 6. [Contributors](#contributors)
 7. [Note](#note)
+8. [Licence](#licence)
 
 ---
 
@@ -126,3 +127,7 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 ### Before using the app, ensure the ChromeDriver path is set correctly in the code and the FastAPI server is running. To start server run start_server.bat
 
 ---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
