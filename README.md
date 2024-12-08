@@ -15,7 +15,7 @@ Developed using **OpenCV**, **Mediapipe**, **FastAPI**, and **Selenium**, the ap
 5. [App demo](#app-demo)
 6. [Contributors](#contributors)
 7. [Note](#note)
-8. [Licence](#licence)
+8. [License](#license)
 
 ---
 
